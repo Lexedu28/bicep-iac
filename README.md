@@ -1,2 +1,1 @@
-# bicep-iac
-Azure Bicep
+
